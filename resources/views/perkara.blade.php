@@ -70,7 +70,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                                     <th>No. Perkara</th>
                                     <th>Terdakwa</th>
                                     <th>Hakim</th>
-                                    {{-- <th>Tanggal Sidang</th> --}}
+                                    <th>Tanggal Sidang</th>
                                     <th>Ruang Sidang</th>
                                     <th>Klasifikasi</th>
                                     <th class="text-center">Action</th>
