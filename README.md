@@ -1,3 +1,21 @@
+## View Login
+![screencapture-127-0-0-1-8000-login-2022-12-08-16_09_46](https://user-images.githubusercontent.com/75254027/206407606-6d49a670-c9a3-42f3-8aa1-7c38cd98e777.png)
+
+## View Homepage (Data perkara)
+![screencapture-127-0-0-1-8000-perkara-2022-12-08-16_10_26](https://user-images.githubusercontent.com/75254027/206407745-61e13021-5846-45ff-9af9-4d85f7f765e4.png)
+
+## View tambah data perkara
+![screencapture-127-0-0-1-8000-add-perkara-2022-12-08-16_12_47](https://user-images.githubusercontent.com/75254027/206408415-d3983974-eae2-4906-a049-c11bdbdd3c08.png)
+
+## View Data Klasifikasi (Soft Delete, Restore, dan Hard Delete)
+![screencapture-127-0-0-1-8000-klasifikasi-2022-12-08-16_10_58](https://user-images.githubusercontent.com/75254027/206407895-99c4e3b0-f62a-4176-8fe2-f018b5ad27a9.png)
+
+## View Data Hakim
+![screencapture-127-0-0-1-8000-hakim-2022-12-08-16_11_21](https://user-images.githubusercontent.com/75254027/206408085-3988e37a-9e45-424d-a206-42e404e67697.png)
+
+<b> Note: jika ada yang ingin ditanyakan mengenai program ini, silakan email/ line (ID): erinadv_ </b>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
