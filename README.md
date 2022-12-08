@@ -13,6 +13,10 @@
 ## View Data Hakim
 ![screencapture-127-0-0-1-8000-hakim-2022-12-08-16_11_21](https://user-images.githubusercontent.com/75254027/206408085-3988e37a-9e45-424d-a206-42e404e67697.png)
 
+## ERD
+![image](https://user-images.githubusercontent.com/75254027/206410708-f60f7ecd-18d6-4a55-9226-127a3fe097a1.png)
+
+
 <b> Note: jika ada yang ingin ditanyakan mengenai program ini, silakan email/ line (ID): erinadv_ </b>
 
 
