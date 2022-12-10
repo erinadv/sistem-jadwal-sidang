@@ -17,7 +17,7 @@
 ![image](https://user-images.githubusercontent.com/75254027/206410708-f60f7ecd-18d6-4a55-9226-127a3fe097a1.png)
 
 
-<b> Note: jika ada yang ingin ditanyakan mengenai program ini, silakan email/ line (ID): erinadv_ </b>
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
